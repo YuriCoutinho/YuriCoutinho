@@ -54,11 +54,9 @@
 
 ## Minhas Estatísticas
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YuriCoutinho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Followers,Stars,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.hackclub.dev/api?username=YuriCoutinho&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuriCoutinho&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCoutinho&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+![Top Languages](https://github-readme-stats.hackclub.dev/api/top-langs/?username=YuriCoutinho&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
 
 ###
 
