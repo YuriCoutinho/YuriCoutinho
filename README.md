@@ -52,14 +52,6 @@
 
 ###
 
-## Minhas Estatísticas
-
-![GitHub Stats](https://github-readme-stats.hackclub.dev/api?username=YuriCoutinho&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.hackclub.dev/api/top-langs/?username=YuriCoutinho&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
-###
-
 ## Onde me encontrar
 
 [![Gmail](https://img.shields.io/badge/1yuricoutinho@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:1yuricoutinho@gmail.com)
