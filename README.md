@@ -4,8 +4,8 @@
 
 ## Sobre mim
 
-- **Front-end na [Petlove](https://petlove.com.br)** caminhando para me tornar **fullstack**.
-- Foco em **Vue** e **Nuxt**, construindo também **BFFs em Node.js** para conectar front e back.
+- **Desenvolvedor de software na [Petlove](https://www.linkedin.com/company/petlove)**.
+- Trabalho com **Vue** e **Nuxt** no front e **BFFs em Node.js** conectando as pontas.
 - Stack do dia a dia: **TypeScript, Vue, Nuxt, Node.js, GraphQL** e **Elixir com Phoenix**.
 
 ###
