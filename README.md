@@ -59,7 +59,7 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Figma Make](https://img.shields.io/badge/Figma_Make-1E1E1E?style=flat&logo=figma&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Claude Design](https://img.shields.io/badge/Claude_Design-D97757?style=flat&logo=claude&logoColor=white)
 ![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=flat&logo=google&logoColor=white)
 
 ###
