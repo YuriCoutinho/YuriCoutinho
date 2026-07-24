@@ -55,12 +55,12 @@
 ![Dynamic Yield](https://img.shields.io/badge/Dynamic_Yield-1A1A1A?style=flat&logoColor=white)
 ![Google Optimize](https://img.shields.io/badge/Google_Optimize-4285F4?style=flat&logo=google&logoColor=white)
 
-### Ferramentas de Desenvolvimento
+### Design e Layout
 
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Figma Make](https://img.shields.io/badge/Figma_Make-1E1E1E?style=flat&logo=figma&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=flat&logo=google&logoColor=white)
 
 ###
 
