@@ -7,6 +7,7 @@
 - **Desenvolvedor de software na [Petlove](https://www.linkedin.com/company/petlove)**.
 - Trabalho com **Vue** e **Nuxt** no front e **BFFs em Node.js** conectando as pontas.
 - Stack do dia a dia: **TypeScript, Vue, Nuxt, Node.js, GraphQL** e **Elixir com Phoenix**.
+- Experiência com arquitetura **monolítica** e **microfrontends** (monorepo com **Yarn Workspaces**).
 
 ###
 
@@ -44,8 +45,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+### Monitoramento e Observabilidade
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Honeybadger](https://img.shields.io/badge/Honeybadger-EE5B32?style=flat&logoColor=white)
+
+### Experimentação (A/B Testing)
+
+![Dynamic Yield](https://img.shields.io/badge/Dynamic_Yield-1A1A1A?style=flat&logoColor=white)
+![Google Optimize](https://img.shields.io/badge/Google_Optimize-4285F4?style=flat&logo=google&logoColor=white)
+
 ### Ferramentas de Desenvolvimento
 
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
